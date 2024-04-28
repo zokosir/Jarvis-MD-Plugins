@@ -1,7 +1,7 @@
-![epsilon](https://i.imgur.com/2b2zoGM.jpg)
+![epsilon](https://telegra.ph/file/4abb5e925d4ffeedd1a18.jpg)
 <br>
 
-[![Jarvis MD](https://readme-typing-svg.demolab.com?font=Serif&weight=600&size=26&duration=4000&pause=1000&center=true&random=false&width=450&height=90&lines=JARVIS-MD+PLUGINS)](https://ironmanff.vercel.app)
+[![zoro MD](https://readme-typing-svg.demolab.com?font=Serif&weight=600&size=26&duration=4000&pause=1000&center=true&random=false&width=450&height=90&lines=JARVIS-MD+PLUGINS)](https://ironmanff.vercel.app)
 <br>
 <h3 align="center"> 𝚴𝚵𝐖 𝚸𝐋𝐔𝐆𝚰𝚴𝐒 </h1>
 
